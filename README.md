@@ -1,2 +1,2 @@
-# first_repo
-ini repository pertama saya
+# Data Science Project
+ini repository pertama saya tentang data membuat repo
